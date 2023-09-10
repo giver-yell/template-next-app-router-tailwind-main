@@ -1,1 +1,1 @@
-# template-next-app-router-tailwind-main
+# Tasting Note Next
